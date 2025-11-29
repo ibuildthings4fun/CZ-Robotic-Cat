@@ -1,6 +1,6 @@
 # CZ Robotic Cat 🐱⚙️
 
-![CZ Robotic Cat](assets/czcat.png)
+![CZ Robotic Cat](czcat.png)
 
 一个会根据 BNB Chain 链上数据做出物理反应的机器人猫项目，行为模型灵感来自 CZ 在公开场合展现出的决策风格。
 
