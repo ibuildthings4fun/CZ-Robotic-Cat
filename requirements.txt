@@ -1,0 +1,4 @@
+websockets
+requests
+pyyaml
+paho-mqtt

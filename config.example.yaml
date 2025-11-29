@@ -1,0 +1,12 @@
+# BNB 价格 / 行情接口配置
+bnb:
+  price_api: "https://api.binance.com/api/v3/ticker/24hr?symbol=BNBUSDT"
+
+# MQTT 服务器配置
+mqtt:
+  host: "127.0.0.1"
+  port: 1883
+  topic: "cat/state"
+
+# 后端轮询间隔（秒）
+poll_interval_seconds: 15
